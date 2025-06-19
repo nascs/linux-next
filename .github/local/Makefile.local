@@ -1,0 +1,1 @@
+KERNEL_DEFCONFIG := qcmini_defconfig radxa.config

@@ -1,4 +1,4 @@
-linux-next (0.1.0-1) UNRELEASED; urgency=medium
+linux-next (6.15.0-next-20250528-1) UNRELEASED; urgency=medium
 
   * Add initial Debian packaging support
 
