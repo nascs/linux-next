@@ -1,4 +1,5 @@
 [submodule "src"]
 	path = src
-	url = https://github.com/radxa/kernel.git
-	branch = linux-next-20250528
+	url = https://github.com/nascs/kernel.git
+	branch = Fang_work-6.15.y
+ 

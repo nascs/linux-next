@@ -1,1 +1,1 @@
-KERNEL_DEFCONFIG := qcmini_defconfig radxa.config
+KERNEL_DEFCONFIG := qcom_module_defconfig radxa.config
